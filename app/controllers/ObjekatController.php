@@ -9,7 +9,7 @@ class ObjekatController extends \BaseController {
 	 */
 	public function index()
 	{
-		// Pregled index.php
+		// Pregled u index.php
 		return View::make('objekat.index');	
 	}
 
